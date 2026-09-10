@@ -1,5 +1,5 @@
 ---
 triple:          'arm64-apple-darwin'
-binary-path:     '/Users/parthshastri/Downloads/coding/C++/lecture 1/helloWorld'
+binary-path:     '/Users/parthshastri/Downloads/coding/C++/lecture 1 (Hello world)/helloWorld'
 relocations:     []
 ...
