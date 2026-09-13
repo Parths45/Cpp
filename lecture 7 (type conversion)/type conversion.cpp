@@ -17,5 +17,12 @@ int main(){
     // Explicit casting
 
     std::cout << (char)100 << '\n';
+
+    int questions = 10;
+    int correct = 8;
+    double score = (double)correct / (double)questions * 100; // explicit conversion from int to double
+
+    std::cout << score << " %" << '\n';
+
     return 0;
 }
